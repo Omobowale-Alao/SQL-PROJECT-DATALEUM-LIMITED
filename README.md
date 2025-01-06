@@ -1,4 +1,4 @@
-**PROJECT OVERVIEW: SALES ANALYSIS FOR DATALEUM LIMITED**
+**PROJECT OVERVIEW: DATALEUM LIMITED SALES ANALYSIS**
 
 This project focuses on analyzing sales data to extract valuable insights for reporting and decision-making. The analysis involves importing and transforming raw data into a structured format suitable for analytical tasks, such as counting orders, identifying product trends, and extracting valuable patterns across sales channels, states, and prices.
 
